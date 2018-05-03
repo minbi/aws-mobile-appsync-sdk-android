@@ -14,5 +14,7 @@ android:
 
 script:
   - echo "Hello world!"
+  - echo $ASDF
+  - echo ASDF
   - echo 134/q/eNoOfY8CHBGj3Uhauc0CS1lWzJoHdC8xWQ8kPZozNhcmmqPyfwJ1wzUEvD13xrOAjs6xVBWKmUeKiWe2D+uDMMyN4VoDkWRc2vyx1C8J7SS89CIfq7Kohr//nSEHU+rUqh3OnJ1fnpPLHex93kG91dB6CcT8wcnVpsBebC4oIdt0LnfBljlFcdIETiihTUEDDM/hBsPL/G7Zn4NlUVgw9CwCcXs9JTXcFq0s7Rhf6jan4H0r0kftdWFlIYu/BBRAEt3Ufq1IKxWoE9PqNYLis4aNnKsFA4afs3qklT6X3RmRzyaNAOLV2Z1PfLCingTDJ3G5DvAOygfwjfZwsdlKDLXal04OxtRkLRQSjYKrJfvDgWUExBPuR5i/E4ztAn1Rh7uX6WrdrZ0GQTPTmwgL/H+9mOZaAbQqc/Ak/j7tVds1R/+yYPJKTsqIaPdEQTD63EAW6jsiIXF2/cDzk6N2UnGPhkjZTpPoBpI95ude+PkkUr5GSwecYXtAwS210HmysqmN0PujGeMr97PjbAEroYIOZ0izNY8EYhFTeUCAq7XMglLCUI2FCsDFvqDXj8Y/S8pURmcnIFTESQzh55L9niQCdy0xQNZh82YazA2hAAReM8bq49Mvq2BZWsbsCyoGq+u7C/rk9HnFO3VcDpkzcgHqNZN9P5Wwmmc1g=
   - cat asdf.txt.enc
